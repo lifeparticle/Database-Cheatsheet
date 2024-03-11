@@ -1,7 +1,7 @@
 | Type | Examples |
 |------|----------|
 | RDBMS | MySQL, PostgreSQL, Oracle Database, Microsoft SQL Server, MariaDB |
-| Cloud-based relational databases | Cloud SQL, Cloud Spanner, AlloyDB |
+| Cloud-based, relational databases | Cloud SQL, Cloud Spanner, AlloyDB |
 | NoSQL | **Key-value pair**:  DynamoDB <br> **Columnar:** Snowflake <br>  **Document:** MongoDB, DynamoDB, CosmosDB <br> **Graph:** ArangoDB  <br> **Time series**: InfluxDB, KairosDB, Prometheus, ClickHouse |
 | Cloud-based, NoSQL databases | Cloud Firestore |
 | In-Memory Databases | Redis, SAP HANA, Oracle TimesTen |
